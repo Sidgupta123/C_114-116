@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\C-114\\clown-nose-filter-web-app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C-114 Project"
+	}
+}
